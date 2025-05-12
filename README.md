@@ -1,4 +1,4 @@
- 🧠 Customer Personality Analysis
+# 🧠 Customer Personality Analysis
 
 This project aims to perform an exploratory data analysis (EDA) and derive insights into customer behaviors using machine learning and data visualization techniques. The dataset contains information about a company's marketing campaign and customer attributes.
 
